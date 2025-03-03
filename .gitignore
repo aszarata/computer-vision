@@ -1,0 +1,17 @@
+*.pdf
+lab2/data
+*.zip
+.idea/
+*.gif
+*.pt
+*.pth
+lab3/crawled_cakes
+lab3/experiments
+lab3/generated
+lab3/models
+lab4/food_images
+lab5/models
+lab5/bicycle.txt
+lab6/data
+venv
+runs
